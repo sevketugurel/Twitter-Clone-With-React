@@ -18,7 +18,7 @@ const routes = createBrowserRouter([
                 element:<Explore />
             },
             {
-                path:"  ",
+                path:"/notifications",
                 element:<Notifications/>
             },
             {
